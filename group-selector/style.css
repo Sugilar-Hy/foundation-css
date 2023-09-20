@@ -1,0 +1,15 @@
+button {
+    padding: 20px;
+    font-weight: bold;
+    
+}
+
+.btnclass {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+#btnid {
+    background-color: yellow;
+    color: black;
+}

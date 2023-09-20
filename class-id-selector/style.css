@@ -1,0 +1,21 @@
+.header {
+    background-color: skyblue;
+    font-weight: bold;
+}
+
+.header.sub {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: greenyellow;
+}
+
+#sb {
+    background-color: aqua;
+    color: red;
+}
+
+.cl#lc {
+    background-color: red;
+    text-align : center;
+}
+

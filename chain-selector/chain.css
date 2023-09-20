@@ -1,0 +1,22 @@
+.origin.destroy {
+    width: 300px;
+}
+
+.origin.kick {
+    width: 200px;
+    height: auto;
+}
+
+.main {
+    width: 150 px;
+}
+
+.main.destroy {
+    width: 200px;
+}
+
+.main.kick {
+    width: 300px;
+    height: 250px;
+}
+
